@@ -3,8 +3,9 @@
 
 Written for Arduino.
 
-Input: Light Sensor (photo resistor), potentiometer, pushbutton switch
-Output: Piezo speaker
+**Input:** Light Sensor (photo resistor), potentiometer, pushbutton switch
+
+**Output:** Piezo speaker
 
 The pushbutton switch changes between one of three modes:
 
