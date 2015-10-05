@@ -68,7 +68,7 @@ void loop() {
   if (audioMode == 0) {
     // Standard analog theremin
     
-    int pitch = map(sensorValue, sensorLow, sensorHigh, 50, 4000);
+    int pitch = map(sensorValue, sensorLow, sensorHigh, 261.63, 1046.50);
     tone(2, pitch, 20);
     delay(10);
     
