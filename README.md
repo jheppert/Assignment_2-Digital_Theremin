@@ -1,5 +1,5 @@
-#Digital Theremin
-##Internet of Things Assignment 2
+# Digital Theremin
+## Internet of Things - Assignment 2
 
 Written for Arduino.
 
